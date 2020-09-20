@@ -42,9 +42,9 @@ class Directory extends Component {
                   id: 5,
                   linkUrl: 'shop/mens'
                 }
-            ];
-        }
-    }
+            ]
+        };
+    };
 
     render() {
         return (
@@ -56,7 +56,7 @@ class Directory extends Component {
                 }
             </div>
         );
-    }
-}
+    };
+};
 
 export default Directory;
